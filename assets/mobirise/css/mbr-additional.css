@@ -760,7 +760,7 @@ a {
 }
 .cid-tbITxIs658 .dropdown-menu,
 .cid-tbITxIs658 .navbar.opened {
-  background: #355c7d !important;
+  background: #ffe161 !important;
 }
 .cid-tbITxIs658 .nav-item:focus,
 .cid-tbITxIs658 .nav-link:focus {
@@ -795,7 +795,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #355c7d;
+  background: #ffe161;
 }
 .cid-tbITxIs658 .navbar.opened {
   transition: all 0.3s;
@@ -940,7 +940,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tbITxIs658 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #355c7d;
+  background: #ffe161;
 }
 .cid-tbITxIs658 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1043,7 +1043,7 @@ a {
   }
 }
 .cid-tbIU00xsxM {
-  background-color: #f67280;
+  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-tbIU00xsxM .mbr-fallback-image.disabled {
   display: none;
@@ -1196,6 +1196,12 @@ a {
 }
 .cid-tbIU5h6xPO .mbr-text {
   color: #555555;
+}
+.cid-tbJ4UfHZ3y {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
 .cid-tbISVfeNaK {
   background-image: url("../../../assets/images/background5.jpg");
@@ -1362,7 +1368,7 @@ a {
 }
 .cid-tbITxIs658 .dropdown-menu,
 .cid-tbITxIs658 .navbar.opened {
-  background: #355c7d !important;
+  background: #ffe161 !important;
 }
 .cid-tbITxIs658 .nav-item:focus,
 .cid-tbITxIs658 .nav-link:focus {
@@ -1397,7 +1403,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #355c7d;
+  background: #ffe161;
 }
 .cid-tbITxIs658 .navbar.opened {
   transition: all 0.3s;
@@ -1542,7 +1548,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tbITxIs658 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #355c7d;
+  background: #ffe161;
 }
 .cid-tbITxIs658 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1643,4 +1649,10 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-tbJ4UfHZ3y {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
