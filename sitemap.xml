@@ -1,92 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://amngithub.github.io/wordpress/</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/index.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/blog.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Retail.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Manufacturing.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Services.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Media.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Data%20Engineer%20Track.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Data%20Scientist%20Track.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Data%20Analyst%20Track.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Data%20Steward%20Track.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Learning%20Plan.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/Tools.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/cookie-policy.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/privacy.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://amngithub.github.io/wordpress/profile.html</loc>
-  <lastmod>2022-07-18T20:11:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/index.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Engineer Track.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/blog.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/cookie-policy.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Retail.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Scientist Track.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Analyst Track.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Manufacturing.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Media.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Services.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Learning Plan.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Tools.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Portfolio.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Steward Track.html</loc>
+	</url>
 </urlset>
