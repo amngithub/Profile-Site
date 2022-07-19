@@ -3,16 +3,10 @@
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/index.html</loc>
 	</url>
 	<url>
-		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Engineer Track.html</loc>
-	</url>
-	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/blog.html</loc>
 	</url>
 	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/cookie-policy.html</loc>
-	</url>
-	<url>
-		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Retail.html</loc>
 	</url>
 	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Scientist Track.html</loc>
@@ -21,24 +15,24 @@
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Analyst Track.html</loc>
 	</url>
 	<url>
-		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Manufacturing.html</loc>
-	</url>
-	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Media.html</loc>
 	</url>
 	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Services.html</loc>
 	</url>
 	<url>
-		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Learning Plan.html</loc>
-	</url>
-	<url>
-		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Tools.html</loc>
-	</url>
-	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Portfolio.html</loc>
 	</url>
 	<url>
 		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Steward Track.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Data Engineer Track.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/Retail.html</loc>
+	</url>
+	<url>
+		<loc>https://amngithub.github.io/wordpress/sitemap.xml/page13.html</loc>
 	</url>
 </urlset>
